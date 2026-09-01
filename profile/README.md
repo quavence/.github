@@ -7,7 +7,7 @@
   <a href="https://bitcointalk.org/index.php?topic=5497217"><img src="https://img.shields.io/badge/Bitcointalk-ANN%20Thread-f7931a?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Bitcointalk"></a>
 </p>
 
-**Quavence (QVNC)** is a decentralized Layer-1 security and AI compute ecosystem powered by **Proof-of-Useful-Stake (PoUS)**. It integrates on-chain consensus, autonomous community governance, and consumer GPU/CPU compute into a high-performance network.
+**Quavence (QVNC)** is a decentralized Layer-1 DePIN AI compute network powered by **Proof-of-Useful-Stake (PoUS)**. It integrates on-chain consensus, community governance, and consumer GPU/CPU compute into a high-performance, verified infrastructure.
 
 ---
 
@@ -24,7 +24,7 @@
 ## ⚡ Core Architecture
 
 - **Proof-of-Useful-Stake (PoUS):** Combines ultra-fast PoS 3.0 staking with autonomous on-chain AI worker verification, unlocking up to **+50%** staking yield boosts for active compute nodes.
-- **DePIN AI Compute:** Distributes governance intelligence, RAG security audits, and task synthesis to decentralized consumer workers running local quantized LLMs.
+- **DePIN AI Compute:** Distributes governance intelligence, RAG knowledge audits, and task synthesis to decentralized consumer workers running local quantized LLMs.
 - **Defense-in-Depth Security:** Subnet density guards (`/24`), quorum diversity filters, and canary integrity traps protect the network from adversarial spoofing.
 
 ---
