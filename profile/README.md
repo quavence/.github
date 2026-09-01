@@ -38,5 +38,4 @@ Track our active development, sprint boards, and future milestones on the **[Qua
 ## 🛡️ Security & Contact
 
 - **Security Policy:** [SECURITY.md](https://github.com/quavence/quavence-ai-worker/blob/main/SECURITY.md)
-- **Security Contact:** `security@quavence.com`
-- **General Inquiries:** `connect@quavence.com`
+- **Security & General Inquiries:** `connect@quavence.com`
