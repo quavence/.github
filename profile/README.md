@@ -31,7 +31,7 @@
 
 ## 🗺️ Roadmap & Milestones
 
-Track our active development, sprint boards, and future milestones on the **[Quavence Public Roadmap](https://github.com/orgs/quavence/projects)**.
+Track our active development, sprint boards, and future milestones on the **[Quavence Public Roadmap](https://github.com/orgs/quavence/projects/1)**.
 
 ---
 
