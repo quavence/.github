@@ -3,6 +3,8 @@
 <p align="left">
   <a href="https://quavence.com"><img src="https://img.shields.io/badge/Website-quavence.com-2563eb?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
   <a href="https://explorer.quavence.com"><img src="https://img.shields.io/badge/Explorer-explorer.quavence.com-0284c7?style=for-the-badge&logo=safari&logoColor=white" alt="Explorer"></a>
+  <a href="https://x.com/QuavenceX"><img src="https://img.shields.io/badge/X-@QuavenceX-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"></a>
+  <a href="https://t.me/quavence"><img src="https://img.shields.io/badge/Telegram-@quavence-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
   <a href="https://discord.gg/5c0jY9aCa7"><img src="https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
   <a href="https://bitcointalk.org/index.php?topic=5497217"><img src="https://img.shields.io/badge/Bitcointalk-ANN%20Thread-f7931a?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Bitcointalk"></a>
 </p>
@@ -15,8 +17,8 @@
 
 | Repository | Purpose | Stack | Status |
 |---|---|---|:---:|
-| [**quavence-node**](https://github.com/quavence/quavence-node) | Layer-1 Blockchain Core, P2P Daemon, CLI & Qt All-in-One Wallet | C++20, Qt5, PoUS | 🟢 `v15.1.4` |
-| [**quavence-ai-worker**](https://github.com/quavence/quavence-ai-worker) | Desktop DePIN Compute Client for local LLM inference (Ollama / LM Studio) | Electron, Node.js | 🟢 `v1.0.2` |
+| [**quavence-node**](https://github.com/quavence/quavence-node) | Layer-1 Blockchain Core, P2P Daemon, CLI & Qt All-in-One Wallet | C++20, Qt5, PoUS | 🟢 `v15.1.6` |
+| [**quavence-ai-worker**](https://github.com/quavence/quavence-ai-worker) | Desktop DePIN Compute Client for local LLM inference (Ollama / LM Studio) | Electron, Node.js | 🟢 `v1.0.6` |
 | [**quavence-explorer**](https://github.com/quavence/quavence-explorer) | Real-time blockchain ledger and on-chain AI Attestations telemetry | React 18, TypeScript, SQLite | 🟢 Live |
 | [**quavence-vault**](https://github.com/quavence/quavence-vault) | Official Non-Custodial Web3 Browser Wallet & PoUS Glyphs Showcase | React 18, Vite, Manifest V3 | 🟢 `v0.1.4` |
 
@@ -39,4 +41,7 @@ Track our active development, sprint boards, and future milestones on the **[Qua
 ## 🛡️ Security & Contact
 
 - **Security Policy:** [SECURITY.md](https://github.com/quavence/quavence-ai-worker/blob/main/SECURITY.md)
+- **Official X:** [@QuavenceX](https://x.com/QuavenceX)
+- **Official Telegram:** [@quavence](https://t.me/quavence)
+- **Discord Community:** [discord.gg/5c0jY9aCa7](https://discord.gg/5c0jY9aCa7)
 - **Security & General Inquiries:** `connect@quavence.com`
