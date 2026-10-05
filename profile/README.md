@@ -18,7 +18,7 @@
 | Repository | Purpose | Stack | Status |
 |---|---|---|:---:|
 | [**quavence-node**](https://github.com/quavence/quavence-node) | Layer-1 Blockchain Core, P2P Daemon, CLI & Qt All-in-One Wallet | C++20, Qt5, PoUS | 🟢 `v15.1.6` |
-| [**quavence-ai-worker**](https://github.com/quavence/quavence-ai-worker) | Desktop DePIN Compute Client for local LLM inference (Ollama / LM Studio) | Electron, Node.js | 🟢 `v1.0.6` |
+| [**quavence-ai-worker**](https://github.com/quavence/quavence-ai-worker) | Desktop DePIN Compute Client for local LLM inference (Ollama / LM Studio) | Electron, Node.js | 🟢 `v1.0.7` |
 | [**quavence-explorer**](https://github.com/quavence/quavence-explorer) | Real-time blockchain ledger and on-chain AI Attestations telemetry | React 18, TypeScript, SQLite | 🟢 Live |
 | [**quavence-vault**](https://github.com/quavence/quavence-vault) | Official Non-Custodial Web3 Browser Wallet & PoUS Glyphs Showcase | React 18, Vite, Manifest V3 | 🟢 `v0.1.4` |
 
