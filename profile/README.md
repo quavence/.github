@@ -17,8 +17,9 @@
 
 | Repository | Purpose | Stack | Status |
 |---|---|---|:---:|
-| [**quavence-node**](https://github.com/quavence/quavence-node) | Layer-1 Blockchain Core, P2P Daemon, CLI & Qt All-in-One Wallet | C++20, Qt5, PoUS | 🟢 `v15.1.6` |
-| [**quavence-ai-worker**](https://github.com/quavence/quavence-ai-worker) | Desktop DePIN Compute Client for local LLM inference (Ollama / LM Studio) | Electron, Node.js | 🟢 `v1.0.7` |
+| [**quavence-node**](https://github.com/quavence/quavence-node) | Layer-1 Blockchain Core, P2P Daemon, CLI & Qt All-in-One Wallet | C++20, Qt5, PoUS | 🟢 `v15.1.8` |
+| [**quavence-strata**](https://github.com/quavence/quavence-strata) | Turnkey Tier 3 RAM-offloaded inference installer for 125B/177B MoE models | Bash, PowerShell, C++ | 🟢 Latest |
+| [**quavence-ai-worker**](https://github.com/quavence/quavence-ai-worker) | Desktop DePIN Compute Client for local LLM inference (Ollama / LM Studio) | Electron, Node.js | 🟢 `v1.0.9` |
 | [**quavence-explorer**](https://github.com/quavence/quavence-explorer) | Real-time blockchain ledger and on-chain AI Attestations telemetry | React 18, TypeScript, SQLite | 🟢 Live |
 | [**quavence-vault**](https://github.com/quavence/quavence-vault) | Official Non-Custodial Web3 Browser Wallet & PoUS Glyphs Showcase | React 18, Vite, Manifest V3 | 🟢 `v0.1.4` |
 
@@ -27,7 +28,7 @@
 ## ⚡ Core Architecture
 
 - **Proof-of-Useful-Stake (PoUS):** Combines ultra-fast PoS 3.0 staking with autonomous on-chain AI worker verification, unlocking up to **+50%** staking yield boosts for active compute nodes.
-- **DePIN AI Compute:** Distributes governance intelligence, RAG knowledge audits, and task synthesis to decentralized consumer workers running local quantized LLMs.
+- **DePIN AI Compute & Hybrid MoE:** Distributes governance intelligence, RAG knowledge audits, and massive 177B Mixture-of-Experts inference to decentralized consumer workers running local quantized LLMs with RAM-offload capabilities.
 - **Defense-in-Depth Security:** Subnet density guards (`/24`), quorum diversity filters, and canary integrity traps protect the network from adversarial spoofing.
 
 ---
